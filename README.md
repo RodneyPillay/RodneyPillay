@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on anything interesting that can help uplift people.
 - 📫 How to reach me @SniperZN (Twitter)
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=RodneyPillay&count_private=true&theme=default_repocard&showicons=true&&count_private=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=RodneyPillay&count_private=true&theme=dark&showicons=true&count_private=true)]()
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RodneyPillay&langs_count=5&theme=default_repocard&&count_private=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RodneyPillay&langs_count=5&theme=dark&count_private=true)]()
 
 <!---
 RodneyPillay/RodneyPillay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
