@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on anything interesting that can help uplift people.
 - 📫 How to reach me @SniperZN (Twitter)
+- ✍🏾 [My Substack](https://rodneypillay.substack.com/)
 
 ---
 
